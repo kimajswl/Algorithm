@@ -4,7 +4,6 @@ public class B2839 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int sugar = sc.nextInt();
-        int result = 0;
 
         if(sugar < 3 || sugar == 4) {
             System.out.println(-1);
