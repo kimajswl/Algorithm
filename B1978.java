@@ -26,7 +26,6 @@ public class B1978 {
                 return false;
             }
         }
-
         return true;
     }
 }
